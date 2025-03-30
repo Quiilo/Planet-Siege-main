@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      light-fly_0: 8383795587151656306
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
